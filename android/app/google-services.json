@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322911231635",
+    "project_id": "reports-drivers",
+    "storage_bucket": "reports-drivers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322911231635:android:86e249533786d346693766",
+        "android_client_info": {
+          "package_name": "com.example.reports_drivers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC017z5oiZzNxIAikoImnld7qiiZ-GgglU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
